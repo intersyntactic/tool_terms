@@ -1,0 +1,11 @@
+name: tool_terms
+description: A tool's terms, built by hand one stage at a time.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.14.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
